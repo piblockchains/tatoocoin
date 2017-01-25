@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Tatoocoin</source>
-        <translation>Au sujet de Tatoocoin</translation>
+        <source>About tattoocoin</source>
+        <translation>Au sujet de tattoocoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Tatoocoin&lt;/b&gt; version</source>
-        <translation>Version de &lt;b&gt;Tatoocoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;tattoocoin&lt;/b&gt; version</source>
+        <translation>Version de &lt;b&gt;tattoocoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Tatoocoin developers</source>
+Copyright © 2014 The tattoocoin developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
 Copyright © 2012-2014 Les développeurs NovaCoin
-Copyright © 2014 Les développeurs Tatoocoin</translation>
+Copyright © 2014 Les développeurs tattoocoin</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,7 +65,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Tatoocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your tattoocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Ce sont vos adresses pour recevoir vos paiements. Vous pouvez utiliser une adresse différente pour chaque réception afin d&apos;identifier facilement le payeur.</translation>
     </message>
     <message>
@@ -80,8 +80,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Tatoocoin address</source>
-        <translation>Signer un message afin de valider l&apos;identité de votre adresse Tatoocoin</translation>
+        <source>Sign a message to prove you own a tattoocoin address</source>
+        <translation>Signer un message afin de valider l&apos;identité de votre adresse tattoocoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Tatoocoin address</source>
-        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse Tatoocoin spécifique.</translation>
+        <source>Verify a message to ensure it was signed with a specified tattoocoin address</source>
+        <translation>Vérifier un message pour s&apos;assurer qu&apos;il vient d&apos;un adresse tattoocoin spécifique.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -237,7 +237,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Avertissement : Si vous chiffrez votre portefeuille et perdez votre passphrase, vous ne pourrez &lt;b&gt;plus accéder à vos Tatoocoins&lt;/b&gt;!</translation>
+        <translation>Avertissement : Si vous chiffrez votre portefeuille et perdez votre passphrase, vous ne pourrez &lt;b&gt;plus accéder à vos tattoocoins&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -263,8 +263,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Tatoocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>L&apos;application Tatoocoin va désormais se terminer afin de finaliser le processus de chiffrage. Merci de noter que le chiffrage du portefeuille ne garantit pas de se prémunir du vol via utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
+        <source>tattoocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>L&apos;application tattoocoin va désormais se terminer afin de finaliser le processus de chiffrage. Merci de noter que le chiffrage du portefeuille ne garantit pas de se prémunir du vol via utilisation de malware, qui auraient pu infecter votre ordinateur. </translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Tatoocoin</source>
-        <translation>Afficher des informations au sujet de Tatoocoin</translation>
+        <source>Show information about tattoocoin</source>
+        <translation>Afficher des informations au sujet de tattoocoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Tatoocoin address</source>
-        <translation>Envoyer des monnaies vers une adresse Tatoocoin</translation>
+        <source>Send coins to a tattoocoin address</source>
+        <translation>Envoyer des monnaies vers une adresse tattoocoin</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Tatoocoin</source>
-        <translation>Modification des options de configuration de Tatoocoin</translation>
+        <source>Modify configuration options for tattoocoin</source>
+        <translation>Modification des options de configuration de tattoocoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>Tatoocoin</source>
-        <translation>Tatoocoin</translation>
+        <source>tattoocoin</source>
+        <translation>tattoocoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Tatoocoin</source>
-        <translation>&amp;Au sujet de Tatoocoin</translation>
+        <source>&amp;About tattoocoin</source>
+        <translation>&amp;Au sujet de tattoocoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Tatoocoin client</source>
-        <translation>Client Tatoocoin</translation>
+        <source>tattoocoin client</source>
+        <translation>Client tattoocoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Tatoocoin network</source>
-        <translation><numerusform>%n connexion active au réseau Tatoocoin</numerusform><numerusform>%n connexions actives au réseau Tatoocoin</numerusform></translation>
+        <source>%n active connection(s) to tattoocoin network</source>
+        <translation><numerusform>%n connexion active au réseau tattoocoin</numerusform><numerusform>%n connexions actives au réseau tattoocoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -659,8 +659,8 @@ Adresse : %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Tatoocoin address or malformed URI parameters.</source>
-        <translation>L&apos;adresse du portefeuille Tatoocoin n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid tattoocoin address or malformed URI parameters.</source>
+        <translation>L&apos;adresse du portefeuille tattoocoin n&apos;as pas pu être correctement identifiée, car invalide ou malformée.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -719,8 +719,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Tatoocoin can no longer continue safely and will quit.</source>
-        <translation>Une erreur fatale a été rencontrée. L&apos;application Tatoocoin ne peut plus être s&apos;exécuter de façon correcte et va se terminer.</translation>
+        <source>A fatal error occurred. tattoocoin can no longer continue safely and will quit.</source>
+        <translation>Une erreur fatale a été rencontrée. L&apos;application tattoocoin ne peut plus être s&apos;exécuter de façon correcte et va se terminer.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Tatoocoin address.</source>
-        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse Tatoocoin valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid tattoocoin address.</source>
+        <translation>L&apos;adresse &quot;%1&quot; renseignée n&apos;est pas une adresse tattoocoin valide.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Tatoocoin-Qt</source>
-        <translation>Tatoocoin-Qt</translation>
+        <source>tattoocoin-Qt</source>
+        <translation>tattoocoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Tatoocoin after logging in to the system.</source>
-        <translation>Démarrage automatique du client Tatoocoin lors de la connexion au système</translation>
+        <source>Automatically start tattoocoin after logging in to the system.</source>
+        <translation>Démarrage automatique du client tattoocoin lors de la connexion au système</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Tatoocoin on system login</source>
-        <translation>&amp;Démarrage du client Tatoocoin à la connexion au système</translation>
+        <source>&amp;Start tattoocoin on system login</source>
+        <translation>&amp;Démarrage du client tattoocoin à la connexion au système</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1170,8 +1170,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Tatoocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir automatiquemwnr le port client de Tatoocoin sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
+        <source>Automatically open the tattoocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir automatiquemwnr le port client de tattoocoin sur le routeur. Ceci ne fonctionne que dans le cas où le support UPnP sur votre routeur existe et est actif.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1180,8 +1180,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Tatoocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connexion au réseau Tatoocoin à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
+        <source>Connect to the tattoocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connexion au réseau tattoocoin à travers un proxy SOCKS (e.g. Connexion via le réseau Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1255,8 +1255,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Tatoocoin.</source>
-        <translation>La langue d&apos;interface de l&apos;utilisateur peut être définie ici. Les modification seront prises en compte après redémarrage de l&apos;application Tatoocoin</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting tattoocoin.</source>
+        <translation>La langue d&apos;interface de l&apos;utilisateur peut être définie ici. Les modification seront prises en compte après redémarrage de l&apos;application tattoocoin</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1270,8 +1270,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Tatoocoin addresses in the transaction list or not.</source>
-        <translation>Afficher les adresses Tatoocoin au sein de la liste de transactions</translation>
+        <source>Whether to show tattoocoin addresses in the transaction list or not.</source>
+        <translation>Afficher les adresses tattoocoin au sein de la liste de transactions</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1317,8 +1317,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Tatoocoin.</source>
-        <translation>Les paramètres prendront effet après redémarrage du client Tatoocoin</translation>
+        <source>This setting will take effect after restarting tattoocoin.</source>
+        <translation>Les paramètres prendront effet après redémarrage du client tattoocoin</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1336,8 +1336,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Tatoocoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau Tatoocoin mais ce processus n&apos;est pas encore terminé.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the tattoocoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Les informations affichées peuvent être obsolètes. Votre portefeuille se synchronise automatiquement avec le réseau tattoocoin mais ce processus n&apos;est pas encore terminé.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1552,8 +1552,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Tatoocoin-Qt help message to get a list with possible Tatoocoin command-line options.</source>
-        <translation>Afficher le message d&apos;aide Tatoocoin-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande Tatoocoin</translation>
+        <source>Show the tattoocoin-Qt help message to get a list with possible tattoocoin command-line options.</source>
+        <translation>Afficher le message d&apos;aide tattoocoin-Qt afin d&apos;obtenir la liste des options de de L&apos;outil en ligne de commande tattoocoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1572,13 +1572,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="-104"/>
-        <source>Tatoocoin - Debug window</source>
-        <translation>Tatoocoin - Fenêtre de déboggage</translation>
+        <source>tattoocoin - Debug window</source>
+        <translation>tattoocoin - Fenêtre de déboggage</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Tatoocoin Core</source>
-        <translation>Tatoocoin Core</translation>
+        <source>tattoocoin Core</source>
+        <translation>tattoocoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1587,8 +1587,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Tatoocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ouvrir le fichier journal de debug Tatoocoin au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
+        <source>Open the tattoocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ouvrir le fichier journal de debug tattoocoin au sein du répertoire courant. Cette opération peut prendre quelques secondes dans le cas de fichiers journaux volumineux.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1597,8 +1597,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Tatoocoin RPC console.</source>
-        <translation>Bienvenue sur la console RPC de Tatoocoin.</translation>
+        <source>Welcome to the tattoocoin RPC console.</source>
+        <translation>Bienvenue sur la console RPC de tattoocoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1756,8 +1756,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Tatoocoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse Tatoocoin (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tattoocoin address (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Entrer une adresse tattoocoin (par ex: TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1856,8 +1856,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Tatoocoin address</source>
-        <translation>AVERTISSEMENT: Adresse Tatoocoin Invalide</translation>
+        <source>WARNING: Invalid tattoocoin address</source>
+        <translation>AVERTISSEMENT: Adresse tattoocoin Invalide</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1867,7 +1867,7 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location line="+4"/>
         <source>WARNING: unknown change address</source>
-        <translation>AVERTISSEMENT: Adresse Tatoocoin Invalide</translation>
+        <translation>AVERTISSEMENT: Adresse tattoocoin Invalide</translation>
     </message>
 </context>
 <context>
@@ -1900,8 +1900,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresse destinataire du paiement (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Adresse destinataire du paiement (par ex: TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1930,8 +1930,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Tatoocoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse Tatoocoin (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tattoocoin address (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Entrer une adresse tattoocoin (par ex: TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
 </context>
 <context>
@@ -1954,8 +1954,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse Tatoocoin (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Entrer une adresse tattoocoin (par ex: TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1991,8 +1991,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Tatoocoin address</source>
-        <translation>Signer le message afin de prouver l&apos;identité de votre adresse Tatoocoin</translation>
+        <source>Sign the message to prove you own this tattoocoin address</source>
+        <translation>Signer le message afin de prouver l&apos;identité de votre adresse tattoocoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2018,13 +2018,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>L&apos;adresse avec laquelle le message à été signé (ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>L&apos;adresse avec laquelle le message à été signé (ex: TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Tatoocoin address</source>
-        <translation>Vérifiez le message afin de vous assurer qu&apos;il provient de l&apos;adresse Tatoocoin spécifiée.</translation>
+        <source>Verify the message to ensure it was signed with the specified tattoocoin address</source>
+        <translation>Vérifiez le message afin de vous assurer qu&apos;il provient de l&apos;adresse tattoocoin spécifiée.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2034,8 +2034,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Tatoocoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Entrer une adresse Tatoocoin (par ex: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tattoocoin address (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Entrer une adresse tattoocoin (par ex: TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2044,8 +2044,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Tatoocoin signature</source>
-        <translation>Entrer une signature Tatoocoin</translation>
+        <source>Enter tattoocoin signature</source>
+        <translation>Entrer une signature tattoocoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2615,8 +2615,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Tatoocoin version</source>
-        <translation>Version Tatoocoin</translation>
+        <source>tattoocoin version</source>
+        <translation>Version tattoocoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2625,8 +2625,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or tatoocoind</source>
-        <translation>Envoyer commande à -server ou tatoocoind</translation>
+        <source>Send command to -server or tattoocoind</source>
+        <translation>Envoyer commande à -server ou tattoocoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2645,13 +2645,13 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: tatoocoin.conf)</source>
-        <translation>Spécifier le fichier de configuration (par défaut: tatoocoin.conf)</translation>
+        <source>Specify configuration file (default: tattoocoin.conf)</source>
+        <translation>Spécifier le fichier de configuration (par défaut: tattoocoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: tatoocoind.pid)</source>
-        <translation>Spécifier le fichier pid (par défaut: tatoocoind.pid)</translation>
+        <source>Specify pid file (default: tattoocoind.pid)</source>
+        <translation>Spécifier le fichier pid (par défaut: tattoocoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2800,8 +2800,8 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Tatoocoin will not work properly.</source>
-        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. Tatoocoin ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong tattoocoin will not work properly.</source>
+        <translation>Avertissement: Veuillez vérifier la date et l&apos;heure de votre ordinateur. tattoocoin ne pourra pas fonctionner correctement si l&apos;horloge est réglée de façon incorrecte</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2990,24 +2990,24 @@ Cela implique que des frais à hauteur d&apos;au moins %2 seront nécessaires.</
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=tatoocoinrpc
+rpcuser=tattoocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Tatoocoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;tattoocoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, vous devez définir un mot de passe rpc &apos;rpcpassword&apos; au sein du fichier de configuration:
  %s
 Il est recommandé d&apos;utiliser le mot de passe aléatoire suivant:
-rpcuser=tatoocoinrpc
+rpcuser=tattoocoinrpc
 rpcpassword=%s
 (il n&apos;est pas nécessaire de retenir ce mot de passe)
 Le nom d&apos;utilisateur et le mot de passe doivent IMPERATIVEMENT être différents.
 Si le fichier n&apos;existe pas, il est nécessaire de le créer, avec les droit de lecture au propriétaire seulement.
 Il est également recommandé d&apos;utiliser l&apos;option alertnotify afin d&apos;être notifié des problèmes;
-par exemple: alertnotify=echo %%s | mail -s &quot;Alerte Tatoocoin&quot; admin@foo.com
+par exemple: alertnotify=echo %%s | mail -s &quot;Alerte tattoocoin&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3132,13 +3132,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte Tatoocoin&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Tatoocoin is probably already running.</source>
-        <translation>Echec lors de la tentative de verrou des données du répertoire %s. L&apos;application Tatoocoin est probablement déjà en cours d&apos;exécution</translation>
+        <source>Cannot obtain a lock on data directory %s.  tattoocoin is probably already running.</source>
+        <translation>Echec lors de la tentative de verrou des données du répertoire %s. L&apos;application tattoocoin est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Tatoocoin</source>
-        <translation>Tatoocoin</translation>
+        <source>tattoocoin</source>
+        <translation>tattoocoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3172,13 +3172,13 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte Tatoocoin&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Tatoocoin</source>
-        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application Tatoocoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of tattoocoin</source>
+        <translation>Erreur de chargement du fichier wallet.dat: le portefeuille nécessite une version plus récente de l&apos;application tattoocoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Tatoocoin to complete</source>
-        <translation>Le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application Tatoocoin</translation>
+        <source>Wallet needed to be rewritten: restart tattoocoin to complete</source>
+        <translation>Le portefeuille nécessite d&apos;être réédité : Merci de relancer l&apos;application tattoocoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3247,8 +3247,8 @@ par exemple: alertnotify=echo %%s | mail -s &quot;Alerte Tatoocoin&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Tatoocoin is probably already running.</source>
-        <translation>Connexion au port %s impossible. L&apos;application Tatoocoin est probablement déjà en cours d&apos;exécution</translation>
+        <source>Unable to bind to %s on this computer. tattoocoin is probably already running.</source>
+        <translation>Connexion au port %s impossible. L&apos;application tattoocoin est probablement déjà en cours d&apos;exécution</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -34,9 +34,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("TTC");
-    case mBTC: return QString("mTTC");
-    case uBTC: return QString::fromUtf8("μTTC");
+    case BTC: return QString("TATO");
+    case mBTC: return QString("mTATO");
+    case uBTC: return QString::fromUtf8("μTATO");
     default: return QString("???");
     }
 }
@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Tatoocoins");
-    case mBTC: return QString("Milli-Tatoocoins (1 / 1,000)");
-    case uBTC: return QString("Micro-Tatoocoins (1 / 1,000,000)");
+    case BTC: return QString("tattoocoins");
+    case mBTC: return QString("Milli-tattoocoins (1 / 1,000)");
+    case uBTC: return QString("Micro-tattoocoins (1 / 1,000,000)");
     default: return QString("???");
     }
 }

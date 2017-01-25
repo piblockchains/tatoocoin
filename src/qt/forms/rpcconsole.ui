@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Tatoocoin - Debug window</string>
+   <string>tattoocoin - Debug window</string>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>
@@ -36,7 +36,7 @@
           </font>
          </property>
          <property name="text">
-          <string>Tatoocoin Core</string>
+          <string>tattoocoin Core</string>
          </property>
         </widget>
        </item>
@@ -322,7 +322,7 @@
        <item row="15" column="0">
         <widget class="QPushButton" name="openDebugLogfileButton">
          <property name="toolTip">
-          <string>Open the Tatoocoin debug log file from the current data directory. This can take a few seconds for large log files.</string>
+          <string>Open the tattoocoin debug log file from the current data directory. This can take a few seconds for large log files.</string>
          </property>
          <property name="text">
           <string>&amp;Open</string>
@@ -348,7 +348,7 @@
        <item row="17" column="0">
         <widget class="QPushButton" name="showCLOptionsButton">
          <property name="toolTip">
-          <string>Show the Tatoocoin-Qt help message to get a list with possible Tatoocoin command-line options.</string>
+          <string>Show the tattoocoin-Qt help message to get a list with possible tattoocoin command-line options.</string>
          </property>
          <property name="text">
           <string>&amp;Show</string>

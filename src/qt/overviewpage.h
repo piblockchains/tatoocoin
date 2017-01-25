@@ -46,6 +46,13 @@ private:
 private slots:
     void updateDisplayUnit();
     void handleTransactionClicked(const QModelIndex &index);
+    void on_lv_nodes_clicked();
+    void on_mng_pool_clicked();
+    void on_blk_explorer1_clicked();
+    void on_blk_explorer2_clicked();
+    void on_forum_clicked();
+    void on_faucet_clicked();
+    void on_ofcl_website_clicked();
 };
 
 #endif // OVERVIEWPAGE_H

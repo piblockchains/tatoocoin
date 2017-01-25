@@ -11,6 +11,8 @@
 
 #include <QAbstractItemDelegate>
 #include <QPainter>
+#include <QDesktopServices>
+#include <QUrl>
 
 #define DECORATION_SIZE 64
 #define NUM_ITEMS 3
@@ -115,6 +117,10 @@ OverviewPage::OverviewPage(QWidget *parent) :
 
     // start with displaying the "out of sync" warnings
     showOutOfSyncWarning(true);
+
+    // display background wallpaper
+    QPixmap pix(":/images/wbackground");
+    this->ui->wall_label->setPixmap(pix);
 }
 
 void OverviewPage::handleTransactionClicked(const QModelIndex &index)
@@ -194,4 +200,46 @@ void OverviewPage::showOutOfSyncWarning(bool fShow)
 {
     ui->labelWalletStatus->setVisible(fShow);
     ui->labelTransactionsStatus->setVisible(fShow);
+}
+
+void OverviewPage::on_lv_nodes_clicked()
+{
+    QString link="http://tattoocoin.thecryptochat.net/network";
+    QDesktopServices::openUrl(QUrl(link));
+}
+
+void OverviewPage::on_mng_pool_clicked()
+{
+    QString link="http://poswallet.com/";
+    QDesktopServices::openUrl(QUrl(link));
+}
+
+void OverviewPage::on_blk_explorer1_clicked()
+{
+    QString link="http://chains.sye.host/ttc/";
+    QDesktopServices::openUrl(QUrl(link));
+}
+
+void OverviewPage::on_blk_explorer2_clicked()
+{
+    QString link="http://tattoocoin.thecryptochat.net/";
+    QDesktopServices::openUrl(QUrl(link));
+}
+
+void OverviewPage::on_forum_clicked()
+{
+    QString link="http://tattoocoin.net/litforum/index.php?id=1";
+    QDesktopServices::openUrl(QUrl(link));
+}
+
+void OverviewPage::on_faucet_clicked()
+{
+    QString link="https://thecryptochat.net/tattoocoin.php";
+    QDesktopServices::openUrl(QUrl(link));
+}
+
+void OverviewPage::on_ofcl_website_clicked()
+{
+    QString link="http://tattoocoin.net/Home/";
+    QDesktopServices::openUrl(QUrl(link));
 }
