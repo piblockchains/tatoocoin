@@ -143,6 +143,16 @@ bool AppInit(int argc, char* argv[])
         }
         ReadConfigFile(mapArgs, mapMultiArgs);
 
+        // Add static ip of our clients.
+        mapMultiArgs["-addnode"].push_back("88.88.166.130");
+        mapMultiArgs["-addnode"].push_back("2a06:8ec0:3::1:a261");
+        mapMultiArgs["-addnode"].push_back("149.56.154.75");
+        mapMultiArgs["-addnode"].push_back("91.134.120.210");
+        mapMultiArgs["-addnode"].push_back("95.211.57.108");
+        mapMultiArgs["-addnode"].push_back("2600:3c03::f03c:91ff:fe59:2710");
+        mapMultiArgs["-addnode"].push_back("92.18.128.187");
+        mapMultiArgs["-addnode"].push_back("2001:4648:d1c2:0:7976:c729:480d:586f");
+
         if (mapArgs.count("-?") || mapArgs.count("--help"))
         {
             // First part of help message is specific to bitcoind / RPC client
