@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Tatoocoin</source>
-        <translation>Tatoocoin Hakkında</translation>
+        <source>About tattoocoin</source>
+        <translation>tattoocoin Hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Tatoocoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Tatoocoin&lt;/b&gt; versiyonu</translation>
+        <source>&lt;b&gt;tattoocoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;tattoocoin&lt;/b&gt; versiyonu</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Tatoocoin developers</source>
+Copyright © 2014 The tattoocoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Tatoocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için Tatoocoin adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
+        <source>These are your tattoocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için tattoocoin adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Tatoocoin address</source>
-        <translation>Bir Tatoocoin adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
+        <source>Sign a message to prove you own a tattoocoin address</source>
+        <translation>Bir tattoocoin adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Tatoocoin address</source>
-        <translation>Mesajın, belirli bir Tatoocoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify a message to ensure it was signed with a specified tattoocoin address</source>
+        <translation>Mesajın, belirli bir tattoocoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Tatoocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Tatoocoin, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
+        <source>tattoocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>tattoocoin, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Tatoocoin</source>
-        <translation>Tatoocoin hakkındaki bilgiyi göster</translation>
+        <source>Show information about tattoocoin</source>
+        <translation>tattoocoin hakkındaki bilgiyi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Tatoocoin address</source>
-        <translation>Bir Tatoocoin adresine coin gönder</translation>
+        <source>Send coins to a tattoocoin address</source>
+        <translation>Bir tattoocoin adresine coin gönder</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Tatoocoin</source>
-        <translation>Tatoocoin yapılandırma seçeneklerini değiştir</translation>
+        <source>Modify configuration options for tattoocoin</source>
+        <translation>tattoocoin yapılandırma seçeneklerini değiştir</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>Tatoocoin</source>
-        <translation>Tatoocoin</translation>
+        <source>tattoocoin</source>
+        <translation>tattoocoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Tatoocoin</source>
-        <translation>Tatoocoin &amp;Hakkında</translation>
+        <source>&amp;About tattoocoin</source>
+        <translation>tattoocoin &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Tatoocoin client</source>
-        <translation>Tatoocoin istemcisi</translation>
+        <source>tattoocoin client</source>
+        <translation>tattoocoin istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Tatoocoin network</source>
-        <translation><numerusform>Tatoocoin ağına %n etkin bağlantı</numerusform><numerusform>Tatoocoin ağına %n etkin bağlantı</numerusform></translation>
+        <source>%n active connection(s) to tattoocoin network</source>
+        <translation><numerusform>tattoocoin ağına %n etkin bağlantı</numerusform><numerusform>tattoocoin ağına %n etkin bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Tatoocoin address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamadı! Bu, geçersiz bir Tatoocoin adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid tattoocoin address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamadı! Bu, geçersiz bir tattoocoin adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Tatoocoin can no longer continue safely and will quit.</source>
-        <translation>Önemli bir hata oluştu. Tatoocoin artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
+        <source>A fatal error occurred. tattoocoin can no longer continue safely and will quit.</source>
+        <translation>Önemli bir hata oluştu. tattoocoin artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
     </message>
 </context>
 <context>
@@ -1051,8 +1051,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Tatoocoin address.</source>
-        <translation>Girilen %1 adresi, geçerli bir Tatoocoin adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid tattoocoin address.</source>
+        <translation>Girilen %1 adresi, geçerli bir tattoocoin adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Tatoocoin-Qt</source>
-        <translation>Tatoocoin-Qt</translation>
+        <source>tattoocoin-Qt</source>
+        <translation>tattoocoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1143,13 +1143,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Tatoocoin after logging in to the system.</source>
-        <translation>Sisteme giriş yaptıktan sonra Tatoocoin&apos;i otomatik olarak başlat</translation>
+        <source>Automatically start tattoocoin after logging in to the system.</source>
+        <translation>Sisteme giriş yaptıktan sonra tattoocoin&apos;i otomatik olarak başlat</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Tatoocoin on system login</source>
-        <translation>Sisteme girişte Tatoocoin&apos;i &amp;başlat</translation>
+        <source>&amp;Start tattoocoin on system login</source>
+        <translation>Sisteme girişte tattoocoin&apos;i &amp;başlat</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Tatoocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönelticide Tatoocoin istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
+        <source>Automatically open the tattoocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönelticide tattoocoin istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Tatoocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Tatoocoin ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
+        <source>Connect to the tattoocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>tattoocoin ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Tatoocoin.</source>
-        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, Tatoocoin yeniden başlatıldığında etkin olacaktır.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting tattoocoin.</source>
+        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, tattoocoin yeniden başlatıldığında etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Tatoocoin addresses in the transaction list or not.</source>
-        <translation>Tatoocoin adresinin işlem listesinde gösterilmesi veya gösterilmemesi</translation>
+        <source>Whether to show tattoocoin addresses in the transaction list or not.</source>
+        <translation>tattoocoin adresinin işlem listesinde gösterilmesi veya gösterilmemesi</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Tatoocoin.</source>
-        <translation>Bu ayar, Tatoocoin&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
+        <source>This setting will take effect after restarting tattoocoin.</source>
+        <translation>Bu ayar, tattoocoin&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Tatoocoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak Tatoocoin ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the tattoocoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak tattoocoin ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Tatoocoin-Qt help message to get a list with possible Tatoocoin command-line options.</source>
-        <translation>Muhtemel Tatoocoin komut satırı seçeneklerinin bir listesini getirmek için Tatoocoin-Qt yardım mesajını göster</translation>
+        <source>Show the tattoocoin-Qt help message to get a list with possible tattoocoin command-line options.</source>
+        <translation>Muhtemel tattoocoin komut satırı seçeneklerinin bir listesini getirmek için tattoocoin-Qt yardım mesajını göster</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Tatoocoin - Debug window</source>
-        <translation>Tatoocoin - Hata ayıklama penceresi</translation>
+        <source>tattoocoin - Debug window</source>
+        <translation>tattoocoin - Hata ayıklama penceresi</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Tatoocoin Core</source>
-        <translation>Tatoocoin Core</translation>
+        <source>tattoocoin Core</source>
+        <translation>tattoocoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Tatoocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Tatoocoin hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
+        <source>Open the tattoocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>tattoocoin hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Tatoocoin RPC console.</source>
-        <translation>Tatoocoin RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the tattoocoin RPC console.</source>
+        <translation>tattoocoin RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1754,8 +1754,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Tatoocoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Tatoocoin adresi gir (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tattoocoin address (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Bir tattoocoin adresi gir (örn: TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Tatoocoin address</source>
-        <translation>UYARI: Geçersiz Tatoocoin adresi</translation>
+        <source>WARNING: Invalid tattoocoin address</source>
+        <translation>UYARI: Geçersiz tattoocoin adresi</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1898,8 +1898,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Ödemenin gönderileceği adres (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Ödemenin gönderileceği adres (örn: TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1928,8 +1928,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Tatoocoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Tatoocoin adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tattoocoin address (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Bir tattoocoin adresi girin (örn: TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
 </context>
 <context>
@@ -1952,8 +1952,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Mesajın imzalanacağı adres (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Mesajın imzalanacağı adres (örn: TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1989,8 +1989,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Tatoocoin address</source>
-        <translation>Bu Tatoocoin adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
+        <source>Sign the message to prove you own this tattoocoin address</source>
+        <translation>Bu tattoocoin adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2016,13 +2016,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Mesajın imzalandığı adres (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Mesajın imzalandığı adres (örn: TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Tatoocoin address</source>
-        <translation>Mesajın, belirtilen Tatoocoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify the message to ensure it was signed with the specified tattoocoin address</source>
+        <translation>Mesajın, belirtilen tattoocoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Tatoocoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Tatoocoin adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tattoocoin address (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Bir tattoocoin adresi girin (örn: TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Tatoocoin signature</source>
-        <translation>Tatoocoin imzası gir</translation>
+        <source>Enter tattoocoin signature</source>
+        <translation>tattoocoin imzası gir</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2613,8 +2613,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Tatoocoin version</source>
-        <translation>Tatoocoin versiyonu</translation>
+        <source>tattoocoin version</source>
+        <translation>tattoocoin versiyonu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2623,8 +2623,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or tatoocoind</source>
-        <translation>-sunucu veya tatoocoind&apos;ye komut gönder</translation>
+        <source>Send command to -server or tattoocoind</source>
+        <translation>-sunucu veya tattoocoind&apos;ye komut gönder</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2643,13 +2643,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: tatoocoin.conf)</source>
-        <translation>Konfigürasyon dosyasını belirt (varsayılan: tatoocoin.conf)</translation>
+        <source>Specify configuration file (default: tattoocoin.conf)</source>
+        <translation>Konfigürasyon dosyasını belirt (varsayılan: tattoocoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: tatoocoind.pid)</source>
-        <translation>pid dosyasını belirt (varsayılan: tatoocoin.pid)</translation>
+        <source>Specify pid file (default: tattoocoind.pid)</source>
+        <translation>pid dosyasını belirt (varsayılan: tattoocoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2798,8 +2798,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Tatoocoin will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, Tatoocoin düzgün çalışmayacaktır.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong tattoocoin will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, tattoocoin düzgün çalışmayacaktır.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2988,24 +2988,24 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=tatoocoinrpc
+rpcuser=tattoocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Tatoocoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;tattoocoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, konfigürasyon dosyasında bir rpcpassword belirlemelisiniz:
  %s
 Aşağıdaki rastgele parolayı kullanmanız tavsiye edilir:
-rpcuser=tatoocoinrpc
+rpcuser=tattoocoinrpc
 rpcpassword=%s
 (bu parolayı hatırlamanız gerekmemektedir)
 Kullanıcı adı ve parola aynı OLMAMALIDIR.
 Dosya mevcut değilse, dosyayı sadece-kullanıcı-okuyabilir dosya izniyle yaratınız.
 alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildirilir;
-örneğin: alertnotify=echo %%s | mail -s &quot;Tatoocoin Uyarısı&quot; admin@foo.com
+örneğin: alertnotify=echo %%s | mail -s &quot;tattoocoin Uyarısı&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,12 +3130,12 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Tatoocoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  tattoocoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>Tatoocoin</source>
+        <source>tattoocoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3170,12 +3170,12 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Tatoocoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of tattoocoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Tatoocoin to complete</source>
+        <source>Wallet needed to be rewritten: restart tattoocoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3245,7 +3245,7 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Tatoocoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. tattoocoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

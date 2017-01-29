@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Tatoocoin"
-            VALUE "FileDescription",    "Tatoocoin-Qt (OSS GUI client for Tatoocoin)"
+            VALUE "CompanyName",        "tattoocoin"
+            VALUE "FileDescription",    "tattoocoin-Qt (OSS GUI client for tattoocoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "tatoocoin-qt"
-            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2014 The Tatoocoin developers"
+            VALUE "InternalName",       "tattoocoin-qt"
+            VALUE "LegalCopyright",     "2009-2014 The Bitcoin developers, 2012-2014 The NovaCoin & PPCoin developers, 2014 The tattoocoin developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "tatoocoin-qt.exe"
-            VALUE "ProductName",        "Tatoocoin-Qt"
+            VALUE "OriginalFilename",   "tattoocoin-qt.exe"
+            VALUE "ProductName",        "tattoocoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

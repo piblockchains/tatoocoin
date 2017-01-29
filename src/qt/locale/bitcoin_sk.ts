@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Tatoocoin</source>
-        <translation>O Tatoocoine</translation>
+        <source>About tattoocoin</source>
+        <translation>O tattoocoine</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Tatoocoin&lt;/b&gt; version</source>
-        <translation>verzia &lt;b&gt;Tatoocoinu&lt;/b&gt;</translation>
+        <source>&lt;b&gt;tattoocoin&lt;/b&gt; version</source>
+        <translation>verzia &lt;b&gt;tattoocoinu&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Tatoocoin developers</source>
+Copyright © 2014 The tattoocoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Tatoocoin developers</translation>
+Copyright © 2014 The tattoocoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Tatoocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše Tatoocoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your tattoocoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše tattoocoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Tatoocoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Tatoocoin adresu</translation>
+        <source>Sign a message to prove you own a tattoocoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto tattoocoin adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Tatoocoin address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Tatoocoin adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified tattoocoin address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou tattoocoin adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>Tatoocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Tatoocoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>tattoocoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>tattoocoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Tatoocoin</source>
-        <translation>Zobraziť informácie o Tatoocoin</translation>
+        <source>Show information about tattoocoin</source>
+        <translation>Zobraziť informácie o tattoocoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Tatoocoin address</source>
-        <translation>Poslať mince na Tatoocoin adresu</translation>
+        <source>Send coins to a tattoocoin address</source>
+        <translation>Poslať mince na tattoocoin adresu</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Tatoocoin</source>
-        <translation>Upraviť možnosti konfigurácie pre Tatoocoin</translation>
+        <source>Modify configuration options for tattoocoin</source>
+        <translation>Upraviť možnosti konfigurácie pre tattoocoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-200"/>
-        <source>Tatoocoin</source>
-        <translation>Tatoocoin</translation>
+        <source>tattoocoin</source>
+        <translation>tattoocoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Tatoocoin</source>
-        <translation>&amp;O Tatoocoin</translation>
+        <source>&amp;About tattoocoin</source>
+        <translation>&amp;O tattoocoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Tatoocoin client</source>
-        <translation>Tatoocoin klient</translation>
+        <source>tattoocoin client</source>
+        <translation>tattoocoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Tatoocoin network</source>
-        <translation><numerusform>%n aktívne spojenie s Tatoocoin sieťov</numerusform><numerusform>%n aktívnych spojení s Tatoocoin sieťov</numerusform><numerusform>%n aktívnych spojení s Tatoocoin sieťou</numerusform></translation>
+        <source>%n active connection(s) to tattoocoin network</source>
+        <translation><numerusform>%n aktívne spojenie s tattoocoin sieťov</numerusform><numerusform>%n aktívnych spojení s tattoocoin sieťov</numerusform><numerusform>%n aktívnych spojení s tattoocoin sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -658,8 +658,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Tatoocoin address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou Tatoocoin adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid tattoocoin address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou tattoocoin adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -718,8 +718,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Tatoocoin can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. Tatoocoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. tattoocoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. tattoocoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1052,8 +1052,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Tatoocoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Tatoocoin adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid tattoocoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou tattoocoin adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1071,8 +1071,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Tatoocoin-Qt</source>
-        <translation>Tatoocoin-Qt</translation>
+        <source>tattoocoin-Qt</source>
+        <translation>tattoocoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1144,13 +1144,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Tatoocoin after logging in to the system.</source>
-        <translation>Automaticky spustiť Tatoocoin po prihlásení sa do systému.</translation>
+        <source>Automatically start tattoocoin after logging in to the system.</source>
+        <translation>Automaticky spustiť tattoocoin po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Tatoocoin on system login</source>
-        <translation>&amp;Spustiť Tatoocoin pri prihlásení do systému</translation>
+        <source>&amp;Start tattoocoin on system login</source>
+        <translation>&amp;Spustiť tattoocoin pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1169,8 +1169,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Tatoocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta Tatoocoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the tattoocoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta tattoocoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Tatoocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti Tatoocoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the tattoocoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti tattoocoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Tatoocoin.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní Tatoocoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting tattoocoin.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní tattoocoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1269,8 +1269,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Tatoocoin addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť Tatoocoin adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show tattoocoin addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť tattoocoin adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1316,8 +1316,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Tatoocoin.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní Tatoocoin.</translation>
+        <source>This setting will take effect after restarting tattoocoin.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní tattoocoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Tatoocoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Tatoocoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the tattoocoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou tattoocoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1551,8 +1551,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Tatoocoin-Qt help message to get a list with possible Tatoocoin command-line options.</source>
-        <translation>Zobraziť Tatoocoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku Tatoocoin.</translation>
+        <source>Show the tattoocoin-Qt help message to get a list with possible tattoocoin command-line options.</source>
+        <translation>Zobraziť tattoocoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku tattoocoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1571,13 +1571,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Tatoocoin - Debug window</source>
-        <translation>Tatoocoin - Ladiace okno</translation>
+        <source>tattoocoin - Debug window</source>
+        <translation>tattoocoin - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Tatoocoin Core</source>
-        <translation>Jadro Tatoocoin</translation>
+        <source>tattoocoin Core</source>
+        <translation>Jadro tattoocoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1586,8 +1586,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Tatoocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte Tatoocoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the tattoocoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte tattoocoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1596,8 +1596,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Tatoocoin RPC console.</source>
-        <translation>Vitajte v konzole Tatoocoin RPC.</translation>
+        <source>Welcome to the tattoocoin RPC console.</source>
+        <translation>Vitajte v konzole tattoocoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1755,8 +1755,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Tatoocoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte Tatoocoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tattoocoin address (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Zadajte tattoocoin adresu (napr. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1855,8 +1855,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Tatoocoin address</source>
-        <translation>UPOZORNENIE: Neplatná Tatoocoin adresa</translation>
+        <source>WARNING: Invalid tattoocoin address</source>
+        <translation>UPOZORNENIE: Neplatná tattoocoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1899,8 +1899,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa pre poslanie platby (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to send the payment to  (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Adresa pre poslanie platby (napr. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1929,8 +1929,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Tatoocoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte Tatoocoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tattoocoin address (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Zadajte tattoocoin adresu (napr. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
 </context>
 <context>
@@ -1953,8 +1953,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa na podpísanie správy (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address to sign the message with (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Adresa na podpísanie správy (napr. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1990,8 +1990,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Tatoocoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Tatoocoin adresu</translation>
+        <source>Sign the message to prove you own this tattoocoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto tattoocoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2017,13 +2017,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Adresa správy bola podpísaná (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Adresa správy bola podpísaná (napr. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Tatoocoin address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou Tatoocoin adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified tattoocoin address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou tattoocoin adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Tatoocoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte Tatoocoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tattoocoin address (e.g. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</source>
+        <translation>Zadajte tattoocoin adresu (napr. TMH7WuEnePm8s6AZWckm22fLCyuYBSf52b)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2043,8 +2043,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Tatoocoin signature</source>
-        <translation>Zadajte Tatoocoin podpis</translation>
+        <source>Enter tattoocoin signature</source>
+        <translation>Zadajte tattoocoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2614,8 +2614,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Tatoocoin version</source>
-        <translation>Tatoocoin verzia</translation>
+        <source>tattoocoin version</source>
+        <translation>tattoocoin verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2624,8 +2624,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or tatoocoind</source>
-        <translation>Pošli príkaz na -server alebo tatoocoind</translation>
+        <source>Send command to -server or tattoocoind</source>
+        <translation>Pošli príkaz na -server alebo tattoocoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2644,13 +2644,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: tatoocoin.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: tatoocoin.conf)</translation>
+        <source>Specify configuration file (default: tattoocoin.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: tattoocoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: tatoocoind.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: tatoocoind.pid)</translation>
+        <source>Specify pid file (default: tattoocoind.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: tattoocoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2799,8 +2799,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Tatoocoin will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Tatoocoin nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong tattoocoin will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny tattoocoin nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2989,24 +2989,24 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=tatoocoinrpc
+rpcuser=tattoocoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Tatoocoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;tattoocoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=tatoocoinrpc
+rpcuser=tattoocoinrpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;Tatoocoin Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;tattoocoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3130,13 +3130,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Tatoocoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Tatoocoin is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. Tatoocoin už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  tattoocoin is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. tattoocoin už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Tatoocoin</source>
-        <translation>Tatoocoin</translation>
+        <source>tattoocoin</source>
+        <translation>tattoocoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Tatoocoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Tatoocoin</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Tatoocoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of tattoocoin</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu tattoocoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Tatoocoin to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Tatoocoin k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart tattoocoin to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte tattoocoin k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Tatoocoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Tatoocoin is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Tatoocoin je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. tattoocoin is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. tattoocoin je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>
